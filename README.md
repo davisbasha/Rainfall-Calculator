@@ -1,4 +1,5 @@
 Rainfall Calculator!
+
 Purpose:
 The purpose of the rainfall calculator is to collect information on yearly rainfall patterns, based on monthly precipitation, to get the sum and average of rain precipitation over the selected period of time.
 
